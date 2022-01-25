@@ -9,6 +9,7 @@ namespace CarvedRockFitnessApi.Data
         {
             this.Currency = currency;
             this.Price = price;
+            #Comment
         }
 
         public Currency Currency { get; }
